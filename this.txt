@@ -1,0 +1,5 @@
+<div class="home-content">
+        <h5>Plartform to</h5>
+        <h1>Know the logic behind computer programs</h1>
+        <p>we teach coding with breaking the logic and concept behind any type of computer codein various programming languages</p>
+    </div>
